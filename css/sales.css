@@ -1,0 +1,18 @@
+.pros{
+    background-color: lightgreen;
+}
+.cons{
+    background-color: lightcoral;
+}
+p{
+    font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px/20px;
+    padding:3px;
+}
+.red{
+    color:red;
+    
+}
+.border{
+    border: red 5px;
+}
